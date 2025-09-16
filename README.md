@@ -1,4 +1,4 @@
 # ale
 Repositorio Practica_commit en github
-Alexandra HUAAMA ATENCIO 
+Alexandra HUAMAN ATENCIO 
 Arquitectura de platoformas
